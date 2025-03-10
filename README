@@ -1,0 +1,35 @@
+# Amigo Secreto
+
+Este é um projeto de um jogo de Amigo Secreto desenvolvido como parte de um desafio de programação. O objetivo principal é desenvolver habilidades em lógica de programação, utilizando HTML, CSS e JavaScript.
+
+## Funcionalidades
+
+- Adicionar nomes à lista de amigos.
+- Sortear um amigo secreto aleatoriamente.
+- Remover o nome sorteado da lista para evitar repetições.
+- Exibir o nome sorteado.
+
+## Estrutura do Projeto
+
+O projeto é composto pelos seguintes arquivos:
+
+- `index.html`: Contém a estrutura HTML da aplicação.
+- `style.css`: Contém os estilos CSS para a aplicação.
+- `app.js`: Contém a lógica JavaScript para a aplicação.
+
+## Como Usar
+
+1. Clone o repositório para o seu ambiente local.
+2. Abra o arquivo `index.html` em um navegador web.
+3. Digite o nome de um amigo no campo de entrada e clique no botão "Adicionar" ou pressione Enter.
+4. Repita o passo 3 para adicionar mais amigos.
+5. Clique no botão "Sortear amigo" para sortear um amigo secreto aleatoriamente.
+6. O nome sorteado será exibido e removido da lista de amigos.
+
+## Contribuição
+
+Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
